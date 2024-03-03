@@ -61,14 +61,14 @@ IT Service
 Below are my top 3 notable projects
 
 ## Project 01: Digitalize IT Asset Acknowledgement
-[Project 02](./project01.md)
+[Project 01](./project02.md)
 
 
 ## Project 02: Final Year Project
-[Project 02](./project02.md)
+[Project 02](./project03.md)
 
 ## Project 03: Weather Data Website 
-[Project 03](./project03.md)
+[Project 03](./project04.md)
 
 <br>
 
