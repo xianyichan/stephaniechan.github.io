@@ -7,9 +7,28 @@
 <br>
 
 # Education
-| **School** | **Qualification**
-| Republic Polytechnic | Diploma in Information Technology
-| Woodgrove Secondary School | GCE 'O' Level
+<center>
+<table style="border: 1px solid black;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">School</th>
+    <th style="border: 1px solid black;">Qualification</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; text-align : center">Republic Polytechnic</td>
+    <td style="border: 1px solid black; text-align : center">Diploma in Information Technology</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; text-align : center">Woodgrove Secondary School</td>
+    <td style="border: 1px solid black; text-align : center">GCE 'O' Level</td>
+  </tr>
+  
+    <tr>
+    <td style="border: 1px solid black; text-align : center">Woodgrove Secondary School</td>
+    <td style="border: 1px solid black; text-align : center">GCE 'N(A)' Level</td>
+  </tr>
+</table>
+</center>
+
 
 
 layout: default
