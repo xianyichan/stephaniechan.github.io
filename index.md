@@ -61,7 +61,7 @@ IT Service
 Below are my top 3 notable projects
 
 ## Project 01: Digitalize IT Asset Acknowledgement
-[Project 01](./project01.md)
+[Project 02](./project01.md)
 
 
 ## Project 02: Final Year Project

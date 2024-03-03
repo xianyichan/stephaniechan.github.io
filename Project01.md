@@ -4,5 +4,5 @@
 ![Branching](https://media.discordapp.net/attachments/756886213276860477/1213860350487699506/image.png?ex=65f7028b&is=65e48d8b&hm=4c1001a691311b5933ae03788f904624d68ed4493c48883a49352a313a1e8f68&=&format=webp&quality=lossless&width=643&height=642)
 
 [Home Page](./index.md)
-[Project 02](./project02.md)
+[Project 01](./project01.md)
 [Project 03](./project03.md)
