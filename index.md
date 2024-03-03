@@ -32,20 +32,27 @@
 
 # Skills
 
-* System Administration
+```
+System Administration
 > RedHat Linux
 <br>
 > Windows Server
+```
 <br>
+```
 * AWS Cloud Computing
 > test
+```
 <br>
+```
 * Object Orientated Programming
 > test
+```
 <br>
+```
 * IT Service
 > test
-
+```
 
 
 
