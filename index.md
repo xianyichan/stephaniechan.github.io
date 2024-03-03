@@ -2,7 +2,7 @@
 
 # About me
 
-| ![Octocat](https://media.discordapp.net/attachments/756886213276860477/1213826467117535334/image.png?ex=65f6e2fd&is=65e46dfd&hm=57e992e89f862616308c4984c0acef34daa86bbe11950b0b19a209c1d314b164&=&format=webp&quality=lossless&width=200&height=250) | I am passionate about technology and enjoy exploring new technologies and solutions. My goal is to learn from experienced professionals in the industry and gain hands-on experience in the field. I am a self-directed individual who can work independently, but I also thrive in collaborative environments where I can contribute my ideas and learn from others. With my passion for IT and my compassionate nature, I am confident that I can make a positive contribution to any team and gain valuable experience that will help me in my future career. aaa |
+| ![Octocat](https://media.discordapp.net/attachments/756886213276860477/1213826467117535334/image.png?ex=65f6e2fd&is=65e46dfd&hm=57e992e89f862616308c4984c0acef34daa86bbe11950b0b19a209c1d314b164&=&format=webp&quality=lossless&width=200&height=250) | I am passionate about technology and enjoy exploring new technologies and solutions. My goal is to learn from experienced professionals in the industry and gain hands-on experience in the field. I am a self-directed individual who can work independently, but I also thrive in collaborative environments where I can contribute my ideas and learn from others. With my passion for IT and my compassionate nature, I am confident that I can make a positive contribution to any team and gain valuable experience that will help me in my future career. |
 
 <br>
 
@@ -58,14 +58,23 @@ IT Service
 * * *
 
 # Portfolio
+Below are my top 3 notable projects
 
 ## Project 01: Digitalize IT Asset Acknowledgement
+>The goal is to leverage technology to create a more transparent, secure, and user-friendly system that not only meets compliance requirements but also contributes to a more agile and responsive asset management workflow.
+![Branching](https://media.discordapp.net/attachments/756886213276860477/1213859945288572958/image.png?ex=65f7022b&is=65e48d2b&hm=059a1ba59316ed5e3751cc9db1dd03d2592a5fcffd899143b89857e3379cffd5&=&format=webp&quality=lossless&width=543&height=642)
+
+![Branching](https://media.discordapp.net/attachments/756886213276860477/1213860350487699506/image.png?ex=65f7028b&is=65e48d8b&hm=4c1001a691311b5933ae03788f904624d68ed4493c48883a49352a313a1e8f68&=&format=webp&quality=lossless&width=643&height=642)
 
 ## Project 02: Final Year Project
+>
 
 ## Project 03: Weather Data Website 
+>
 
+<br>
 
+* * *
 
 
 layout: default
