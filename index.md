@@ -6,6 +6,8 @@
 
 <br>
 
+* * *
+
 # Education
 <center>
 <table style="border: 1px solid black;">
@@ -30,27 +32,30 @@
 </center>
 <br>
 
+* * *
+
 # Skills
 
 ```
 System Administration
 (RedHat Linux & Windows Server)
 ```
-<br>
+
 ```
 Amazon Web Services Cloud Computing
 (AWS Cloud Foundations Certificate)
 ```
-<br>
+
 ```
 Object Orientated Programming
 (Java & Python)
 ```
-<br>
+
 ```
 IT Service
 (IT Support & Infrastructure)
 ```
+* * *
 
 # Portfolio
 
