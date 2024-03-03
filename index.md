@@ -28,21 +28,28 @@
   </tr>
 </table>
 </center>
+<br>
 
 # Skills
 
 * System Administration
 > RedHat Linux
+<br>
 > Windows Server
-
+<br>
 * AWS Cloud Computing
 > test
-
+<br>
 * Object Orientated Programming
 > test
-
+<br>
 * IT Service
 > test
+
+
+
+
+
 
 layout: default
 ---
