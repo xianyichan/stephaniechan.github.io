@@ -29,7 +29,20 @@
 </table>
 </center>
 
+# Skills
 
+* System Administration
+> RedHat Linux
+> Windows Server
+
+* AWS Cloud Computing
+> test
+
+* Object Orientated Programming
+> test
+
+* IT Service
+> test
 
 layout: default
 ---
