@@ -7,9 +7,9 @@
 <br>
 
 # Education
-| **School**                | **Qualification**                |
-|Republic Polytechnic       | Diploma in Information Technology|
-|Woodgrove Secondary School | GCE 'O' Level                    |
+| **School** | **Qualification**|
+| Republic Polytechnic | Diploma in Information Technology |
+| Woodgrove Secondary School | GCE 'O' Level |
 
 
 layout: default
