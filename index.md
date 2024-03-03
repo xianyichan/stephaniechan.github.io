@@ -61,7 +61,7 @@ IT Service
 **Below are my top 3 notable projects**
 <b>Below are my top 3 notable projects</b>
 
-<h2> <a href="project02.md"> Project 01: Digitalize IT Asset Acknowledgement </a> </h2>
+<h2> <a href="project02.html" style="color: black"> Project 01: Digitalize IT Asset Acknowledgement </a> </h2>
 [Project 01](./project02.md)
 
 
