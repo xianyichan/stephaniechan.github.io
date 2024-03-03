@@ -58,7 +58,8 @@ IT Service
 * * *
 
 # Portfolio
-Below are my top 3 notable projects
+**Below are my top 3 notable projects**
+<b>Below are my top 3 notable projects</b>
 
 ## Project 01: Digitalize IT Asset Acknowledgement
 [Project 01](./project02.md)
