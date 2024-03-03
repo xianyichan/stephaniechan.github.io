@@ -59,17 +59,12 @@ IT Service
 
 # Portfolio
 **Below are my top 3 notable projects**
-<b>Below are my top 3 notable projects</b>
 
-<h2> <a href="project02.html" style="color: black"> Project 01: Digitalize IT Asset Acknowledgement </a> </h2>
-[Project 01](./project02.md)
+<h2> <a href="project02.html" style="color: gray"> Project 01: Digitalize IT Asset Acknowledgement </a> </h2>
 
+<h2> <a href="project03.html" style="color: gray"> Project 02: Final Year Project </a> </h2>
 
-## Project 02: Final Year Project
-[Project 02](./project03.md)
-
-## Project 03: Weather Data Website 
-[Project 03](./project04.md)
+<h2> <a href="project04.html" style="color: gray"> Project 03: Weather Data Website  </a> </h2>
 
 <br>
 
