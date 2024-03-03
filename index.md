@@ -34,26 +34,31 @@
 
 ```
 System Administration
-> RedHat Linux
-<br>
-> Windows Server
+(RedHat Linux & Windows Server)
 ```
 <br>
 ```
-* AWS Cloud Computing
-> test
+Amazon Web Services Cloud Computing
+(AWS Cloud Foundations Certificate)
 ```
 <br>
 ```
-* Object Orientated Programming
-> test
+Object Orientated Programming
+(Java & Python)
 ```
 <br>
 ```
-* IT Service
-> test
+IT Service
+(IT Support & Infrastructure)
 ```
 
+# Portfolio
+
+## Project 01: Digitalize IT Asset Acknowledgement
+
+## Project 02: Final Year Project
+
+## Project 03: Weather Data Website 
 
 
 
