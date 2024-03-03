@@ -1,7 +1,7 @@
   ---
 
 ## About me
-> ![Octocat](https://discord.com/channels/@me/756886213276860477/1213826467662790656) I am passionate about technology and enjoy exploring new technologies and solutions. My goal is to learn from experienced professionals in the industry and gain hands-on experience in the field. I am a self-directed individual who can work independently, but I also thrive in collaborative environments where I can contribute my ideas and learn from others. With my passion for IT and my compassionate nature, I am confident that I can make a positive contribution to any team and gain valuable experience that will help me in my future career.
+> ![Octocat](https://media.discordapp.net/attachments/756886213276860477/1213826467117535334/image.png) I am passionate about technology and enjoy exploring new technologies and solutions. My goal is to learn from experienced professionals in the industry and gain hands-on experience in the field. I am a self-directed individual who can work independently, but I also thrive in collaborative environments where I can contribute my ideas and learn from others. With my passion for IT and my compassionate nature, I am confident that I can make a positive contribution to any team and gain valuable experience that will help me in my future career.
 
 
 
