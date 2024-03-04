@@ -62,7 +62,7 @@
 ### IT Service
 #### (IT Support & Infrastructure)
 
-![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120643201601578/image.png?ex=65f7f4f6&is=65e57ff6&hm=1e982de56fd995756315b03b9b3556ad3a4a7c821b9887966789f3d2e90f5c6a&=&format=webp&quality=lossless&width=600&height=331)
+![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120643201601578/image.png?ex=65f7f4f6&is=65e57ff6&hm=1e982de56fd995756315b03b9b3556ad3a4a7c821b9887966789f3d2e90f5c6a&=&format=webp&quality=lossless&width=50%&height=auto)
 
 * * *
 
