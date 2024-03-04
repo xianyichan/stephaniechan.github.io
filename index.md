@@ -84,15 +84,21 @@
 <table style="border: 1px solid black;">
 
   <tr style="border: 1px solid black;">
-    <th style="border: 1px solid black;  text-align: center;">Company</th>
-    <th style="border: 1px solid black; text-align: center;">Role</th>
-	<th style="border: 1px solid black; text-align: center;">Tasks</th>
+    <th style="border: 1px solid black;  text-align: center;"><b>Company</b></th>
+    <th style="border: 1px solid black; text-align: center;"><b>Role</b></th>
+	<th style="border: 1px solid black; text-align: center;"><b>Job Scope</b></th>
   </tr>
 
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black; text-align: center;" ><b>StoneForest Consulting</b></td>
+    <td style="border: 1px solid black; text-align: center;" >StoneForest Consulting</td>
     <td style="border: 1px solid black;  text-align: center;">System Engineer</td>
 	<td style="border: 1px solid black;  text-align: justify;"><ul><li>Provide first-level IT support to 1300 internal users, addressing infrastructure and IT security support requests</li><li>Execute daily IT management functions, including the setup of desktops and laptops in compliance with internal IT Policy & Procedures</li><li>Document support activities systematically in the internal eTicketing system</li><li>Identify opportunities for improvement within the Service Desk function and internal IT processes</li><li>Contribute to research work as directed by the Manager</li></ul></td>
+  </tr>
+
+  <tr style="border: 1px solid black;">
+  <td style="border: 1px solid black; text-align: center;" >Map Intel</td>
+    <td style="border: 1px solid black;  text-align: center;">Internship</td>
+	<td style="border: 1px solid black;  text-align: justify;"><ul><li><u>Data Collection:</u> Develop custom scripts for efficient data collection from diverse sources, including Google Earth Engine.</li><li><u>Data Analysis and Integration</u>: Use Python and Jupyter Notebook for in-depth analysis, focusing on land surface temperature in Singapore through Google Earth Engine. Seamlessly merge collected data with Landsat9 satellite data for a comprehensive geographical overview.</li><li>AWS Implementation: Deploy the custom data collection script to AWS to ensure a smooth and scalable workflow.</li><li>USGS Research and Experimentation: Experiment with relevant USGS data sources to enhance the project's insights.</li><li>Conversion and Automation: Implement automation for data processing and analysis tasks to streamline workflows.</li><li>Visualization: Employ QGIS for Landsat9 data visualization and explore Google Earth Engine map integration in Jupyter Notebook.</li></ul></td>
   </tr>
 
 </table>
