@@ -55,14 +55,15 @@
 #### (Java & Python)
 
 ![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120404952555571/image.png?ex=65f7f4bd&is=65e57fbd&hm=15e5ec8979368af3c0b4238932ac6629877a2bc4fdd68756ff11fcecb58c70b9&=&format=webp&quality=lossless&width=250&height=300)
-![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120555125678080/image.png?ex=65f7f4e1&is=65e57fe1&hm=4cf5b3c854888f1b01c0e08fb59c05a186b0b1d029d95070f8fb7bf2635e4078&=&format=webp&quality=lossless&width=200&height=350)
+![Python](./assets/images/Python-logo-notext.svg.png)
 
 <hr>
 
 ### IT Service
 #### (IT Support & Infrastructure)
 
-![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120643201601578/image.png?ex=65f7f4f6&is=65e57ff6&hm=1e982de56fd995756315b03b9b3556ad3a4a7c821b9887966789f3d2e90f5c6a&=&format=webp&quality=lossless&width=50%&height=auto)
+![Octocat]()
+<img src="(https://media.discordapp.net/attachments/756886213276860477/1214120643201601578/image.png?ex=65f7f4f6&is=65e57ff6&hm=1e982de56fd995756315b03b9b3556ad3a4a7c821b9887966789f3d2e90f5c6a&=&format=webp&quality=lossless&width=50%&height=auto>
 
 * * *
 
