@@ -81,7 +81,7 @@
 
 # Experience
 
-<table style="border: 1px solid black;" width: 100%;>
+<table style="border: 1px solid black; width: 100%;">
 
 
   <tr style="border: 1px solid black;">
