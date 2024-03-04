@@ -46,7 +46,7 @@ System Administration
 ```
 Amazon Web Services Cloud Computing
 (AWS Cloud Foundations Certificate)
-![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120259435495444/image.png?ex=65f7f49b&is=65e57f9b&hm=5eeb0476a70daf4ddc33a0b3e489b9cf2395bacd9ea686225f169ea1b61ce0dc&=&format=webp&quality=lossless&width=735&height=416)
+<img src="https://media.discordapp.net/attachments/756886213276860477/1214120259435495444/image.png?ex=65f7f49b&is=65e57f9b&hm=5eeb0476a70daf4ddc33a0b3e489b9cf2395bacd9ea686225f169ea1b61ce0dc&=&format=webp&quality=lossless&width=735&height=416">
 ```
 
 ```
