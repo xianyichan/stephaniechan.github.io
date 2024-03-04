@@ -38,32 +38,28 @@
 
 ### System Administration
 #### (RedHat Linux & Windows Server)
-
-![Linux RedHat](./assets/images/RedHat.png)
-![Windows Server](./assets/images/Windows%20Server.png)
+<img src="./assets/images/RedHat.png" width="100px"/>
+<img src="./assets/images/Windows%20Server.png" width="100px"/>
 
 <hr>
 
 ### Amazon Web Services Cloud Computing
 #### (AWS Cloud Foundations Certificate)
+<img src="./assets/images/AWS%20Cloud%20Computing.png" width="100px"/>
 
-![AWS](./assets/images/AWS%20Cloud%20Computing.png)
 
 <hr>
 
 ### Object Orientated Programming
 #### (Java & Python)
-
-![Java](./assets/images/java.png)
-![Python](./assets/images/Python-logo-notext.svg.png)
+<img src="./assets/images/AWS%20Cloud%20Computing.png" width="100px"/>
+<img src="./assets/images/AWS%20Cloud%20Computing.png" width="100px"/>
 
 <hr>
 
 ### IT Service
 #### (IT Support & Infrastructure)
-
-![Octocat]()
-![IT Service](./assets/images/IT%20Service.png)
+<img src="./assets/images/IT%20Service.png" width="100px"/>
 
 * * *
 
