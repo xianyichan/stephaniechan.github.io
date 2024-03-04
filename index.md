@@ -90,7 +90,7 @@
   </tr>
 
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black; text-align: center;" >StoneForest Consulting</td>
+    <td style="border: 1px solid black; text-align: center;" ><b>StoneForest Consulting</b></td>
     <td style="border: 1px solid black;  text-align: center;">System Engineer</td>
 	<td style="border: 1px solid black;  text-align: justify;"><ul><li>Provide first-level IT support to 1300 internal users, addressing infrastructure and IT security support requests</li><li>Execute daily IT management functions, including the setup of desktops and laptops in compliance with internal IT Policy & Procedures</li><li>Document support activities systematically in the internal eTicketing system</li><li>Identify opportunities for improvement within the Service Desk function and internal IT processes</li><li>Contribute to research work as directed by the Manager</li></ul></td>
   </tr>
