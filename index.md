@@ -2,7 +2,7 @@
 
 # About me
 
-| ![Octocat](https://media.discordapp.net/attachments/756886213276860477/1213826467117535334/image.png?ex=65f6e2fd&is=65e46dfd&hm=57e992e89f862616308c4984c0acef34daa86bbe11950b0b19a209c1d314b164&=&format=webp&quality=lossless&width=200&height=250) | I am passionate about technology and enjoy exploring new technologies and solutions. My goal is to learn from experienced professionals in the industry and gain hands-on experience in the field. I am a self-directed individual who can work independently, but I also thrive in collaborative environments where I can contribute my ideas and learn from others. With my passion for IT and my compassionate nature, I am confident that I can make a positive contribution to any team and gain valuable experience that will help me in my future career. |
+| ![STEPHANIE](https://media.discordapp.net/attachments/756886213276860477/1213826467117535334/image.png?ex=65f6e2fd&is=65e46dfd&hm=57e992e89f862616308c4984c0acef34daa86bbe11950b0b19a209c1d314b164&=&format=webp&quality=lossless&width=200&height=250) | I am passionate about technology and enjoy exploring new technologies and solutions. My goal is to learn from experienced professionals in the industry and gain hands-on experience in the field. I am a self-directed individual who can work independently, but I also thrive in collaborative environments where I can contribute my ideas and learn from others. With my passion for IT and my compassionate nature, I am confident that I can make a positive contribution to any team and gain valuable experience that will help me in my future career. |
 
 <br>
 
@@ -39,22 +39,22 @@
 ### System Administration
 #### (RedHat Linux & Windows Server)
 
-![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120052840726538/image.png?ex=65f7f469&is=65e57f69&hm=1bf411e961ece9176e4948549db66e940b59edd425ab54616680660d6d55dcd9&=&format=webp&quality=lossless&width=250&height=150)
-![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120166137274378/image.png?ex=65f7f484&is=65e57f84&hm=86cb154e70f115b27bf7c30f85a0c76326294b2bdd0a5dcdcfcfcfeb0201b8f0&=&format=webp&quality=lossless&width=300&height=150)
+![Linux RedHat](./assets/images/RedHat.png)
+![Windows Server](./assets/images/Windows%20Server.png)
 
 <hr>
 
 ### Amazon Web Services Cloud Computing
 #### (AWS Cloud Foundations Certificate)
 
-![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120259435495444/image.png?ex=65f7f49b&is=65e57f9b&hm=5eeb0476a70daf4ddc33a0b3e489b9cf2395bacd9ea686225f169ea1b61ce0dc&=&format=webp&quality=lossless&width=200&height=150)
+![AWS](./assets/images/AWS%20Cloud%20Computing.png)
 
 <hr>
 
 ### Object Orientated Programming
 #### (Java & Python)
 
-![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120404952555571/image.png?ex=65f7f4bd&is=65e57fbd&hm=15e5ec8979368af3c0b4238932ac6629877a2bc4fdd68756ff11fcecb58c70b9&=&format=webp&quality=lossless&width=250&height=300)
+![Java](./assets/images/java.png)
 ![Python](./assets/images/Python-logo-notext.svg.png)
 
 <hr>
@@ -63,7 +63,7 @@
 #### (IT Support & Infrastructure)
 
 ![Octocat]()
-<img src="(https://media.discordapp.net/attachments/756886213276860477/1214120643201601578/image.png?ex=65f7f4f6&is=65e57ff6&hm=1e982de56fd995756315b03b9b3556ad3a4a7c821b9887966789f3d2e90f5c6a&=&format=webp&quality=lossless&width=50%&height=auto>
+![IT Service](./assets/images/IT%20Service.png)
 
 * * *
 
