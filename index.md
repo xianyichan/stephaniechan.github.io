@@ -39,28 +39,29 @@
 ```
 System Administration
 (RedHat Linux & Windows Server)
+```
 ![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120052840726538/image.png?ex=65f7f469&is=65e57f69&hm=1bf411e961ece9176e4948549db66e940b59edd425ab54616680660d6d55dcd9&=&format=webp&quality=lossless&width=723&height=382)
 ![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120166137274378/image.png?ex=65f7f484&is=65e57f84&hm=86cb154e70f115b27bf7c30f85a0c76326294b2bdd0a5dcdcfcfcfeb0201b8f0&=&format=webp&quality=lossless&width=640&height=360)
-```
 
 ```
 Amazon Web Services Cloud Computing
 (AWS Cloud Foundations Certificate)
-<img src="https://media.discordapp.net/attachments/756886213276860477/1214120259435495444/image.png?ex=65f7f49b&is=65e57f9b&hm=5eeb0476a70daf4ddc33a0b3e489b9cf2395bacd9ea686225f169ea1b61ce0dc&=&format=webp&quality=lossless&width=735&height=416">
 ```
+![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120259435495444/image.png?ex=65f7f49b&is=65e57f9b&hm=5eeb0476a70daf4ddc33a0b3e489b9cf2395bacd9ea686225f169ea1b61ce0dc&=&format=webp&quality=lossless&width=735&height=416)
 
 ```
 Object Orientated Programming
 (Java & Python)
+```
 ![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120404952555571/image.png?ex=65f7f4bd&is=65e57fbd&hm=15e5ec8979368af3c0b4238932ac6629877a2bc4fdd68756ff11fcecb58c70b9&=&format=webp&quality=lossless&width=302&height=332)
 ![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120555125678080/image.png?ex=65f7f4e1&is=65e57fe1&hm=4cf5b3c854888f1b01c0e08fb59c05a186b0b1d029d95070f8fb7bf2635e4078&=&format=webp&quality=lossless&width=232&height=426)
-```
 
 ```
 IT Service
 (IT Support & Infrastructure)
-![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120643201601578/image.png?ex=65f7f4f6&is=65e57ff6&hm=1e982de56fd995756315b03b9b3556ad3a4a7c821b9887966789f3d2e90f5c6a&=&format=webp&quality=lossless&width=685&height=331)
 ```
+![Octocat](https://media.discordapp.net/attachments/756886213276860477/1214120643201601578/image.png?ex=65f7f4f6&is=65e57ff6&hm=1e982de56fd995756315b03b9b3556ad3a4a7c821b9887966789f3d2e90f5c6a&=&format=webp&quality=lossless&width=685&height=331)
+
 * * *
 
 # Portfolio
