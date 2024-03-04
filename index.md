@@ -82,7 +82,7 @@
 # Experience
 
 | COMPANY | ROLE | TASK
-| STONEFOREST CONSULTING | System Engineer | * asd \ *asd
+| STONEFOREST CONSULTING | System Engineer | <ul><li>asd</li><li>ads</li></ul>
 
 * * *
 
