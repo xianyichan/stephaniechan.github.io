@@ -81,7 +81,8 @@
 
 # Experience
 
-<table style="border: 1px solid black;">
+<table style="border: 1px solid black;" width: 100%;>
+
 
   <tr style="border: 1px solid black;">
     <th style="border: 1px solid black;  text-align: center;"><b>Company</b></th>
