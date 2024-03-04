@@ -84,15 +84,15 @@
 <table style="border: 1px solid black;">
 
   <tr style="border: 1px solid black;">
-    <th style="border: 1px solid black;">Company</th>
-    <th style="border: 1px solid black;">Role</th>
-	<th style="border: 1px solid black;">Tasks</th>
+    <th style="border: 1px solid black;  text-align: center;">Company</th>
+    <th style="border: 1px solid black; text-align: center;">Role</th>
+	<th style="border: 1px solid black; text-align: center;">Tasks</th>
   </tr>
 
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">StoneForest Consulting</td>
-    <td style="border: 1px solid black;">System Engineer</td>
-	<td style="border: 1px solid black;"><ul><li>Provide first-level IT support to 1300 internal users, addressing infrastructure and IT security support requests</li><li>Execute daily IT management functions, including the setup of desktops and laptops in compliance with internal IT Policy & Procedures</li><li>Document support activities systematically in the internal eTicketing system</li><li>Identify opportunities for improvement within the Service Desk function and internal IT processes</li><li>Contribute to research work as directed by the Manager</li></ul></td>
+    <td style="border: 1px solid black; text-align: center;" >StoneForest Consulting</td>
+    <td style="border: 1px solid black;  text-align: center;">System Engineer</td>
+	<td style="border: 1px solid black;  text-align: lefjustifyt;"><ul><li>Provide first-level IT support to 1300 internal users, addressing infrastructure and IT security support requests</li><li>Execute daily IT management functions, including the setup of desktops and laptops in compliance with internal IT Policy & Procedures</li><li>Document support activities systematically in the internal eTicketing system</li><li>Identify opportunities for improvement within the Service Desk function and internal IT processes</li><li>Contribute to research work as directed by the Manager</li></ul></td>
   </tr>
 
 </table>
