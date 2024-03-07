@@ -3,67 +3,64 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sample Layout</title>
+<title>Project 01: Blah Blah Blah</title>
 <style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f0f0f0;
+  }
   .container {
     display: flex;
-    justify-content: space-between;
+    border: 1px solid #000;
+    padding: 20px;
+  }
+  .vertical-line {
+    border-left: 2px solid black;
+    margin: 0 20px;
+  }
+  .section {
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    padding: 20px;
+    justify-content: center;
   }
-  .box {
-    border: 1px solid black;
-    text-align: center;
-    padding: 20px;
-  }
-  .image {
-    width: 60%;
+  .image-placeholder {
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .text-box {
-    width: 30%;
-  }
-  .text-box.vertical {
-    writing-mode: vertical-lr;
-    transform: rotate(180deg);
-  }
-  .text-box.horizontal {
-    width: 60%;
-    margin: auto;
-  }
-  .divider {
-    width: 100%;
-    text-align: center;
-    margin: 20px 0;
+    border: 2px solid black;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
   }
 </style>
 </head>
 <body>
-
 <div class="container">
-  <div class="box image">
-    IMAGE
-    <div class="text-box horizontal">
-      TEXT BOX
+  <div class="section">
+    <div class="image-placeholder">
+      <img src="./assets/images/AWS Cloud Computing.png" alt="Project Image" style="width:100%;height:100%;">
     </div>
+    <div class="text-box"></div>
   </div>
-  <div class="box text-box vertical">
-    TEXT BOX
+  <div class="vertical-line"></div>
+  <div class="section">
+    <div class="image-placeholder">
+      <img src="./assets/images/RedHat.png" alt="Project Image" style="width:100%;height:100%;">
+    </div>
+    <div class="text-box"></div>
   </div>
 </div>
-
-<div class="divider">---</div>
-
-<div class="container">
-  <div class="box text-box vertical">
-    TEXT BOX
-  </div>
-  <div class="box image">
-    IMAGE
-    <div class="text-box horizontal">
-      TEXT BOX
-    </div>
-  </div>
-</div>
-
 </body>
 </html>
