@@ -52,8 +52,8 @@
 
 ### Object Orientated Programming
 #### (Java & Python)
-<img src="./assets/images/java.png" width="150px"/>
-<img src="./assets/images/Python-logo-notext.svg.png" width="150px"/>
+<img src="./assets/images/java.png" width="100px"/>
+<img src="./assets/images/Python-logo-notext.svg.png" width="100px"/>
 
 <hr>
 
