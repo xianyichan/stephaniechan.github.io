@@ -19,7 +19,7 @@
 
 * * *
 
-
+<body>
     <div class="container">
         <div class="overall-description">
             <p>This is an overall description text that goes on top of the body.</p>
@@ -36,3 +36,4 @@
             </div>
         </div>
     </div>
+</body>
