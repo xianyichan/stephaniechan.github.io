@@ -1,0 +1,42 @@
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+.overall-description {
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+.left-section, .right-section {
+    flex: 1;
+}
+
+.vertical-line {
+    border-left: 2px solid black;
+    height: 200px;
+}
+
+img {
+    width: 100%; /* Adjust based on your preference */
+    height: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .content {
+        flex-direction: column;
+    }
+    
+    .vertical-line {
+        border-left: none;
+        border-top: 2px solid black;
+        width: 50%;
+        height: 0;
+    }
+}
