@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,10 +19,10 @@
 
 * * *
 
-<body>
+
     <div class="container">
         <div class="overall-description">
-            <p>This is an overall description text that goes on top of the body.</p>
+            <p>This is an overall description text that goes on top of the body. aaaaa </p>
         </div>
         <div class="content">
             <div class="left-section">
@@ -37,5 +36,3 @@
             </div>
         </div>
     </div>
-</body>
-</html>
