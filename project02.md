@@ -11,31 +11,21 @@
 
 * * *
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Showcase</title>
-    <link rel="stylesheet" href="\style.scss">
-</head>
 <body>
-
-<!-- Header goes here -->
-
-<main class="project-showcase">
-    <div class="image-container left">
-        <img src="./assets/images/java.png" alt="Description of Image 1">
-        <p>Description of Image 1. This can be a longer text explaining the project, the inspiration behind it, or any relevant information. aaaa </p>
+    <div class="container">
+        <div class="overall-description">
+            <p>This is an overall description text that goes on top of the body.</p>
+        </div>
+        <div class="content">
+            <div class="left-section">
+                <img src="./assets/images/AWS Cloud Computing.png" alt="Description of Image">
+                <p>Description text for the image on the left.</p>
+            </div>
+            <div class="vertical-line"></div>
+            <div class="right-section">
+                <img src="./assets/images/Windows Server.png" alt="Description of Image">
+                <p>Description text for the image on the right.</p>
+            </div>
+        </div>
     </div>
-    <div class="image-container right">
-        <img src="./assets/images/Python-logo-notext.svg.png" alt="Description of Image 2">
-        <p>Description of Image 2. Each project has its story. Here you can detail the process, challenges, and achievements related to this specific part of the project.</p>
-    </div>
-    <!-- Repeat the pattern for more images and descriptions -->
-</main>
-
-<!-- Footer goes here -->
-
 </body>
-</html>
