@@ -17,7 +17,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Project Showcase</title>
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="\style.scss">
 </head>
 <body>
 
@@ -26,7 +26,7 @@
 <main class="project-showcase">
     <div class="image-container left">
         <img src="./assets/images/java.png" alt="Description of Image 1">
-        <p>Description of Image 1. This can be a longer text explaining the project, the inspiration behind it, or any relevant information.</p>
+        <p>Description of Image 1. This can be a longer text explaining the project, the inspiration behind it, or any relevant information. aaaa </p>
     </div>
     <div class="image-container right">
         <img src="./assets/images/Python-logo-notext.svg.png" alt="Description of Image 2">
