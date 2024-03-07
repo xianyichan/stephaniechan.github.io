@@ -3,55 +3,67 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Layout Example</title>
+<title>Sample Layout</title>
 <style>
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
-  }
   .container {
     display: flex;
-    justify-content: space-around;
-    width: 80%;
-  }
-  .left-section, .right-section {
-    display: flex;
-    flex-direction: column;
     justify-content: space-between;
+    align-items: center;
+    padding: 20px;
   }
-  .image {
-    border: 1px solid #000;
-    text-align: center;
-    padding: 50px;
-    margin-bottom: 20px;
-  }
-  .text-box {
-    border: 1px solid #000;
+  .box {
+    border: 1px solid black;
     text-align: center;
     padding: 20px;
   }
-  .tall-text-box {
-    height: 100%; /* This makes the tall text box stretch to match the adjacent image height */
+  .image {
+    width: 60%;
+  }
+  .text-box {
+    width: 30%;
+  }
+  .text-box.vertical {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+  }
+  .text-box.horizontal {
+    width: 60%;
+    margin: auto;
+  }
+  .divider {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
   }
 </style>
 </head>
 <body>
+
 <div class="container">
-  <div class="left-section">
-    <div class="image">IMAGE</div>
-    <div class="text-box">TEXT BOX</div>
+  <div class="box image">
+    IMAGE
+    <div class="text-box horizontal">
+      TEXT BOX
+    </div>
   </div>
-  <div class="right-section">
-    <div class="text-box tall-text-box">TEXT BOX</div>
-    <div>
-      <div class="image">IMAGE</div>
-      <div class="text-box">TEXT BOX</div>
+  <div class="box text-box vertical">
+    TEXT BOX
+  </div>
+</div>
+
+<div class="divider">---</div>
+
+<div class="container">
+  <div class="box text-box vertical">
+    TEXT BOX
+  </div>
+  <div class="box image">
+    IMAGE
+    <div class="text-box horizontal">
+      TEXT BOX
     </div>
   </div>
 </div>
+
 </body>
 </html>
