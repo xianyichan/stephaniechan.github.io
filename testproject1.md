@@ -4,7 +4,7 @@
 <title>List Infographic</title>
 </head>
 <body>
-
+<h3 style="text-align:justify">This project aims to collect human traffic data and Earth-related data to track patterns. We are to develop a script for data collection, which will be used to identify potential locations for selling our sugarcane drink. By analyzing footfall, movement patterns, and Earth data like geography, the company can make informed decisions to sell sugarcane drinks. Rigorous testing and validation of the script will ensure data accuracy.</h3>
 <div style="width: 100%; max-width: 600px; margin: auto;">
     <!-- List Item 1 -->
   <div style="margin-bottom: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
