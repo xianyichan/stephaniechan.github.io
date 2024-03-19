@@ -54,16 +54,16 @@
       <hr>
       <img src="./assets/images/PhysicalAsset.png" alt="Image 1" width="75%" height="auto">
       <p style="font-weight: bolder; text-align:justify"><br>Above image is an example of a paper asset form. This asset form is used to keep track of assets that belong to its users. There are several disadvantages:</p>
-      <p style="text-align:left">• Time-consuming and Labor-intensive</p>
-      <p style="text-align:left">• Prone to Human Error</p>
-      <p style="text-align:left">• Lack of Real-time Updates</p>
-      <p style="text-align:left">• Difficulty in Sharing and Accessing Information</p>
-      <p style="text-align:left">• Limited Security</p>
-      <p style="text-align:left">• No Backup</p>
-      <p style="text-align:left">• Space Constraints</p>
-      <p style="text-align:left">• Inefficiency in Analysis and Reporting</p>
-      <p style="text-align:left">• Environmental Impact</p>
-      <p style="text-align:left">• Inability to Integrate</p>
+      <p style="text-align:leaft">• Time-consuming and Labor-intensive</p>
+• Prone to Human Error
+• Lack of Real-time Updates
+• Difficulty in Sharing and Accessing Information
+• Limited Security
+• No Backup
+• Space Constraints
+• Inefficiency in Analysis and Reporting
+• Environmental Impact
+• Inability to Integrate</p>
     </div>
   </div>
   <div class="container right" style="left: 29.4%;">
