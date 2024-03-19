@@ -52,8 +52,8 @@
       <hr>
       <h2 style="text-align: cemter">Initial Physical IT Asset Form</h2>
       <hr>
-      <img src="./assets/images/PhysicalAsset.png" alt="Image 1" width="75%" height="auto"><br>
-      <p style="font-weight: bolder; text-align:justify">Above image is an example of a paper asset form. This asset form is used to keep track of assets that belong to its users. There are several disadvantages:</p>
+      <img src="./assets/images/PhysicalAsset.png" alt="Image 1" width="75%" height="auto">
+      <p style="font-weight: bolder; text-align:justify"><br>Above image is an example of a paper asset form. This asset form is used to keep track of assets that belong to its users. There are several disadvantages:</p>
       <p style="text-align:left">• Time-consuming and Labor-intensive</p>
       <p style="text-align:left">• Prone to Human Error</p>
       <p style="text-align:left">• Lack of Real-time Updates</p>
@@ -72,7 +72,7 @@
       <center><h2>Digital Asset Form</h2></center>
       <hr>
       <img src="./assets/images/DigitalAsset.png" alt="Image 2" width="75%" height="auto"><br>
-      <p style="font-weight: bolder; text-align: justify">Using PowerApps, I have transformed the paper and pen tracking asset system into digitalised method. This method uses sharepoint, making it easier to access, maintain and retrieve information. Technology is leveraged to enhance the product to a more transparent, secure and user-friendly system that meets the compliance requirements.</p>
+      <p style="font-weight: bolder; text-align: justify"><br>Using PowerApps, I have transformed the paper and pen tracking asset system into digitalised method. This method uses sharepoint, making it easier to access, maintain and retrieve information. Technology is leveraged to enhance the product to a more transparent, secure and user-friendly system that meets the compliance requirements.</p>
     </div>
   </div>
   <div class="container left" style="left: -29.4%">
