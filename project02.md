@@ -54,17 +54,16 @@
       <hr>
       <img src="./assets/images/PhysicalAsset.png" alt="Image 1" width="75%" height="auto">
       <p style="font-weight: bolder; text-align:left">Above image is an example of a paper asset form. This asset form is used to keep track of assets that belong to its users. There are several disadvantages:</p>
-
-      <p>• Time-consuming and Labor-intensive
-      • Prone to Human Error</p>
-      • Lack of Real-time Updates</p>
-      • Difficulty in Sharing and Accessing Information</p>
-      • Limited Security</p>
-      • No Backup</p>
-      • Space Constraints</p>
-      • Inefficiency in Analysis and Reporting</p>
-      • Environmental Impact</p>
-      • Inability to Integrate</p>
+      <p style="text-align:left">• Time-consuming and Labor-intensive</p>
+      <p style="text-align:left">• Prone to Human Error</p>
+      <p style="text-align:left">• Lack of Real-time Updates</p>
+      <p style="text-align:left">• Difficulty in Sharing and Accessing Information</p>
+      <p style="text-align:left">• Limited Security</p>
+      <p style="text-align:left">• No Backup</p>
+      <p style="text-align:left">• Space Constraints</p>
+      <p style="text-align:left">• Inefficiency in Analysis and Reporting</p>
+      <p style="text-align:left">• Environmental Impact</p>
+      <p style="text-align:left">• Inability to Integrate</p>
     </div>
   </div>
   <div class="container right" style="left: 29.4%;">
@@ -79,7 +78,7 @@
   <div class="container left" style="left: -29.4%">
     <div class="content" style="padding: 20px 30px; background-color: white; position: relative; border-radius: 6px;">
       <h2 style="text-align: right">Flow & Process</h2>
-      <embed src="./docs/Project Proposal.pdf" type="application/pdf" width="600" height="400" style="left: -40%"/>
+      <embed src="./docs/Project Proposal.pdf" type="application/pdf" width="600" height="400" style="left: 100%/>
       <p style="font-weight: bolder;">The comprehensive flow and process of our latest project through the embedded PDF above. This document meticulously outlines each step of our approach, from inception to completion, and delves into the key benefits that stem from innovative strategies. Gain insights into methodical procedures and the significant advantages they offer, providing a clear understanding of the project's value and efficiency. This detailed guide serves as a testament to our commitment to excellence and the impactful results.</p>
     </div>
   </div>
