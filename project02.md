@@ -47,7 +47,7 @@
 <body>
 
 <div class="timeline" style="position: relative; max-width: 1200px; margin: 0 auto">
-  <div class="container left" style="left: -32%">
+  <div class="container left" style="left: -28%">
     <div class="content" style="padding: 20px 30px; background-color: white; position: relative; border-radius: 6px;">
       <hr>
       <h2 style="text-align: right">Initial Physical IT Asset Form</h2>
@@ -67,7 +67,7 @@
       <p>• Inability to Integrate</p>
     </div>
   </div>
-  <div class="container right" style="left: 30%;">
+  <div class="container right" style="left: 26%;">
     <div class="content" style="padding: 20px 30px; background-color: white; position: relative; border-radius: 6px;">
       <hr>
       <h2>Digital Asset Form</h2>
@@ -76,7 +76,7 @@
       <p style="font-weight: bolder;">Using PowerApps, I have transformed the paper and pen tracking asset system into digitalised method. This method uses sharepoint, making it easier to access, maintain and retrieve information. Technology is leveraged to enhance the product to a more transparent, secure and user-friendly system that meets the compliance requirements.</p>
     </div>
   </div>
-  <div class="container left" style="left: -33%">
+  <div class="container left" style="left: -27%">
     <div class="content" style="padding: 20px 30px; background-color: white; position: relative; border-radius: 6px;">
       <h2 style="text-align: right">Flow & Process</h2>
       <embed src="./docs/Project Proposal.pdf" type="application/pdf" width="600" height="400" />
