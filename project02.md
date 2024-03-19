@@ -78,7 +78,7 @@
   <div class="container left" style="left: -29.4%">
     <div class="content" style="padding: 20px 30px; background-color: white; position: relative; border-radius: 6px;">
       <h2 style="text-align: right">Flow & Process</h2>
-      <embed src="./docs/Project Proposal.pdf" type="application/pdf" width="600" height="400" style="left: 100%/>
+      <embed src="./docs/Project Proposal.pdf" type="application/pdf" width="600" height="400" style="left: -50%">
       <p style="font-weight: bolder;">The comprehensive flow and process of our latest project through the embedded PDF above. This document meticulously outlines each step of our approach, from inception to completion, and delves into the key benefits that stem from innovative strategies. Gain insights into methodical procedures and the significant advantages they offer, providing a clear understanding of the project's value and efficiency. This detailed guide serves as a testament to our commitment to excellence and the impactful results.</p>
     </div>
   </div>
