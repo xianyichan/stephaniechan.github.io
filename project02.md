@@ -53,7 +53,7 @@
       <h2 style="text-align: right">Initial Physical IT Asset Form</h2>
       <hr>
       <img src="./assets/images/PhysicalAsset.png" alt="Image 1" width="75%" height="auto">
-      <p style="font-weight: bolder;">Above image is an example of a paper asset form. This asset form is used to keep track of assets that belong to its users. There are several disadvantages:</p>
+      <p style="font-weight: bolder; text-align:left">Above image is an example of a paper asset form. This asset form is used to keep track of assets that belong to its users. There are several disadvantages:</p>
 
       <p>• Time-consuming and Labor-intensive</p>
       <p>• Prone to Human Error</p>
