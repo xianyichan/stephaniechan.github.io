@@ -52,7 +52,7 @@
       <hr>
       <h2 style="text-align: cemter">Initial Physical IT Asset Form</h2>
       <hr>
-      <img src="./assets/images/PhysicalAsset.png" alt="Image 1" width="75%" height="auto">
+      <img src="./assets/images/PhysicalAsset.png" alt="Image 1" width="75%" height="auto"><br>
       <p style="font-weight: bolder; text-align:justify">Above image is an example of a paper asset form. This asset form is used to keep track of assets that belong to its users. There are several disadvantages:</p>
       <p style="text-align:left">• Time-consuming and Labor-intensive</p>
       <p style="text-align:left">• Prone to Human Error</p>
@@ -71,7 +71,7 @@
       <hr>
       <center><h2>Digital Asset Form</h2></center>
       <hr>
-      <img src="./assets/images/DigitalAsset.png" alt="Image 2" width="75%" height="auto">
+      <img src="./assets/images/DigitalAsset.png" alt="Image 2" width="75%" height="auto"><br>
       <p style="font-weight: bolder; text-align: justify">Using PowerApps, I have transformed the paper and pen tracking asset system into digitalised method. This method uses sharepoint, making it easier to access, maintain and retrieve information. Technology is leveraged to enhance the product to a more transparent, secure and user-friendly system that meets the compliance requirements.</p>
     </div>
   </div>
@@ -80,7 +80,7 @@
       <hr>
       <center><h2>Flow & Process</h2></center>
       <hr>
-      <center><embed src="./docs/Project Proposal.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="400" height="250"></center>
+      <center><embed src="./docs/Project Proposal.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="400" height="250"></center><br>
       <p style="font-weight: bolder; text-align:justify">The comprehensive flow and process of our latest project through the embedded PDF above. This document meticulously outlines each step of our approach, from inception to completion, and delves into the key benefits that stem from innovative strategies. Gain insights into methodical procedures and the significant advantages they offer, providing a clear understanding of the project's value and efficiency. This detailed guide serves as a testament to our commitment to excellence and the impactful results.</p>
     </div>
   </div>
