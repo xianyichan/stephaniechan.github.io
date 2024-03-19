@@ -1,3 +1,8 @@
+[Home Page](./index.md)
+* * *
+[Project 02](./project03.md)
+* * *
+[Project 03](./project04.md)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -86,9 +91,3 @@
 </div>
 </body>
 </html>
-
-[Home Page](./index.md)
-* * *
-[Project 02](./project03.md)
-* * *
-[Project 03](./project04.md)
