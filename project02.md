@@ -8,11 +8,6 @@
   body {
     font-family: Arial, sans-serif;
   }
-  .timeline {
-    position: relative;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
   .timeline::after {
     content: '';
     position: absolute;
@@ -28,9 +23,6 @@
     position: relative;
     background-color: inherit;
     width: 50%;
-  }
-  .container.left {
-    left: -6.7%;
   }
   .container.right {
     left: 50%;
@@ -64,7 +56,7 @@
 </head>
 <body>
 
-<div class="timeline">
+<div class="timeline" style="position: relative; max-width: 1200px; margin: 0 auto">
   <div class="container left">
     <div class="content">
       <hr>
@@ -85,7 +77,7 @@
       <p>• Inability to Integrate</p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container right" style="left: 50%;">
     <div class="content">
       <hr>
       <h2>Digital Asset Form</h2>
@@ -94,7 +86,7 @@
       <p style="font-weight: bolder;">Using PowerApps, I have transformed the paper and pen tracking asset system into digitalised method. This method uses sharepoint, making it easier to access, maintain and retrieve information. Technology is leveraged to enhance the product to a more transparent, secure and user-friendly system that meets the compliance requirements.</p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container left" style="left: -6.7%">
     <div class="content">
       <h2 style="text-align: right">Flow & Process</h2>
       <embed src="./docs/Project Proposal.pdf" type="application/pdf" width="600" height="400" />
