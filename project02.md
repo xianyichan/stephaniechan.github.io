@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PROJECT 01zz</title>
+<title>PROJECT 01</title>
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -23,9 +23,6 @@
     background-color: inherit;
     width: 50%;
   }
-  .container.right {
-    left: 50%;
-  }
   .container::after {
     content: '';
     position: absolute;
@@ -41,12 +38,6 @@
   .right::after {
     left: -17px;
   }
-  .content {
-    padding: 20px 30px;
-    background-color: white;
-    position: relative;
-    border-radius: 6px;
-  }
   img {
     max-width: 100%;
     height: auto;
@@ -56,13 +47,13 @@
 <body>
 
 <div class="timeline" style="position: relative; max-width: 1200px; margin: 0 auto">
-  <div class="container left">
-    <div class="content">
+  <div class="container left" style="left: -6.7%">
+    <div class="content" style="padding: 20px 30px; background-color: white; position: relative; border-radius: 6px;">
       <hr>
       <h2 style="text-align: right">Initial Physical IT Asset Form</h2>
       <hr>
       <img src="./assets/images/PhysicalAsset.png" alt="Image 1" width="75%" height="auto">
-      <p style="font-weight: bolder;"> Above image is an example of a paper asset form. This asset form is used to keep track of assets that belong to its users. There are several disadvantages:</p>
+      <p style="font-weight: bolder;"> zzAbove image is an example of a paper asset form. This asset form is used to keep track of assets that belong to its users. There are several disadvantages:</p>
 
       <p>• Time-consuming and Labor-intensive</p>
       <p>• Prone to Human Error</p>
@@ -77,7 +68,7 @@
     </div>
   </div>
   <div class="container right" style="left: 50%;">
-    <div class="content">
+    <div class="content" style="padding: 20px 30px; background-color: white; position: relative; border-radius: 6px;">
       <hr>
       <h2>Digital Asset Form</h2>
       <hr>
@@ -86,7 +77,7 @@
     </div>
   </div>
   <div class="container left" style="left: -6.7%">
-    <div class="content">
+    <div class="content" style="padding: 20px 30px; background-color: white; position: relative; border-radius: 6px;">
       <h2 style="text-align: right">Flow & Process</h2>
       <embed src="./docs/Project Proposal.pdf" type="application/pdf" width="600" height="400" />
       <p style="font-weight: bolder;">The comprehensive flow and process of our latest project through the embedded PDF above. This document meticulously outlines each step of our approach, from inception to completion, and delves into the key benefits that stem from innovative strategies. Gain insights into methodical procedures and the significant advantages they offer, providing a clear understanding of the project's value and efficiency. This detailed guide serves as a testament to our commitment to excellence and the impactful results.</p>
